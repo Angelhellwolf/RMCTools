@@ -1,0 +1,3 @@
+name: RMCTools
+version: '${version}'
+main: com.remiaft.angelhell.RMCTools
