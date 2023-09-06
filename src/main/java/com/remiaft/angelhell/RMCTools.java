@@ -6,6 +6,7 @@ public final class RMCTools extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        //test
         // Plugin startup logic
 
     }
